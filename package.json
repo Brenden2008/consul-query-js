@@ -1,0 +1,23 @@
+{
+  "name": "consul-query",
+  "version": "1.0.0",
+  "description": "A simple library to query Consul DNS in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brenden2008/consul-query-js.git"
+  },
+  "keywords": [
+    "consul",
+    "dns"
+  ],
+  "author": "Brenden2008",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brenden2008/consul-query-js/issues"
+  },
+  "homepage": "https://github.com/Brenden2008/consul-query-js#readme"
+}
